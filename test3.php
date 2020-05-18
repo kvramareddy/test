@@ -1,5 +1,5 @@
 <?php
-//print '<pre>';
+print '<pre>';
 print_r($_SERVER);
 
 ?>
